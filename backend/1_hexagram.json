@@ -1,0 +1,286 @@
+[
+{
+  "model": "uranai_data.hexagram",
+  "pk": 1,
+  "fields": {
+    "name": "Š£ˆ×“V",
+    "yomi": "‚¯‚ñ‚¢‚Ä‚ñ",
+    "upper_trigram": "Š£",
+    "lower_trigram": "Š£",
+    "image_desc": "“V‚ª“ñ‚Âd‚È‚éÛBƒˆ‚È—z‚ÌƒGƒlƒ‹ƒM[B‘n‘¢A„Œ’A•ƒ«A”\“®«‚ğÛ’¥‚·‚éB",
+    "gua_ci_meaning": "uŒ³‹œ—˜’åi‚°‚ñ‚±‚¤‚è‚Ä‚¢jvB‘å‚¢‚É’Ê‚¶A³“¹‚ğç‚ê‚ÎŠè‚¢‚ÍŠ‚¤B‚½‚¾‚µA˜ü–‚É‚È‚ç‚¸AŒª‹•‚³‚ğ•Û‚Â‚±‚Æ‚ªd—vB",
+    "fortune_summary": "‰^‹C‚ÍÅ‚’ªBÏ‹É“I‚És“®‚·‚é‚±‚Æ‚Å‘å‚«‚È¬‰Ê‚ğ“¾‚ç‚ê‚éB‚½‚¾‚µA—Í‚ğ‰ßM‚¹‚¸ATd‚Éi‚Ş‚×‚«‚Å‚à‚ ‚éB",
+    "rating": "‘å‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 2,
+  "fields": {
+    "name": "£ˆ×’n",
+    "yomi": "‚±‚ñ‚¢‚¿",
+    "upper_trigram": "£",
+    "lower_trigram": "£",
+    "image_desc": "’n‚ª“ñ‚Âd‚È‚éÛBƒˆ‚È‰A‚ÌƒGƒlƒ‹ƒM[Bó—eA•ê«A_‡Aˆç¬‚ğÛ’¥‚·‚éB",
+    "gua_ci_meaning": "uŒ³‹œB—˜–Ä”n”V’åi‚è‚Ğ‚ñ‚Î‚Ì‚Ä‚¢jvB_‡‚È–Ä”n‚Ì‚æ‚¤‚ÉA]‡‚Å½À‚È‘Ô“x‚ğŠÑ‚¯‚ÎA‘å‚¢‚É’Ê‚¶AŠè‚¢‚ÍŠ‚¤B",
+    "fortune_summary": "ó‚¯g‚Ìp¨‚ª‹g‚Æo‚éBl‚ÌˆÓŒ©‚ğ•·‚«“ü‚êA•â²“I‚È–ğŠ„‚É“O‚·‚é‚Æ‚¤‚Ü‚­‚¢‚­BV‚µ‚¢‚±‚Æ‚ğn‚ß‚é‚æ‚èAŒ»óˆÛ‚ğB",
+    "rating": "‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 3,
+  "fields": {
+    "name": "…—‹“Ô",
+    "yomi": "‚·‚¢‚ç‚¢‚¿‚ã‚ñ",
+    "upper_trigram": "šª",
+    "lower_trigram": "k",
+    "image_desc": "…‚Ì‰º‚É—‹‚ª“®‚­ÛB‘–Ø‚ª‰è¶‚¦‚æ‚¤‚Æ‚·‚é‚ªAáŠQ‚ª‘½‚­‚Ä‹ê‚µ‚ñ‚Å‚¢‚éó‘ÔB",
+    "gua_ci_meaning": "uŒ³‹œ—˜’åB–Ü—p—L¿‰B—˜ŒšŒòi‚±‚¤‚ğ‚½‚Â‚é‚É‚æ‚ë‚µjvBY‚İ‚Ì‹ê‚µ‚İ‚ÌBi‚Ş‚Ì‚Í¢“ï‚¾‚ªA‘Ï‚¦”E‚ÑA‹¦—ÍÒ‚ğ“¾‚ÄŠî”Õ‚ğŒÅ‚ß‚é‚×‚«B",
+    "fortune_summary": "•¨–‚Ìn‚Ü‚è‚ÅA¢“ï‚ª‘½‚¢ŠúBÅ‚Á‚Äi‚Ş‚Æ¸”s‚·‚éB¡‚Í‘Ï‚¦A—Í‚ğ’~‚¦‚é‚±‚Æ‚Éê”O‚·‚×‚«B",
+    "rating": "‹¥"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 4,
+  "fields": {
+    "name": "R…–Ö",
+    "yomi": "‚³‚ñ‚·‚¢‚à‚¤",
+    "upper_trigram": "¯",
+    "lower_trigram": "šª",
+    "image_desc": "R‚Ì‰º‚Éò‚ª‚ ‚é‚ªA–¶‚ª[‚­æ‚ªŒ©‚¦‚È‚¢ÛB–³’mA–Ö–†A‹³ˆç‚Ì•K—v«‚ğ¦‚·B",
+    "gua_ci_meaning": "u–Ö‚Í‹œ‚éB‰ä“¶–Ö‚É‹‚Ş‚é‚É‚ ‚ç‚¸A“¶–Ö‰ä‚É‹‚ŞvB³‚µ‚¢t‚ğ‹‚ßA^•‚É‹³‚¦‚ğ¿‚¦‚Î“¹‚ÍŠJ‚¯‚éB",
+    "fortune_summary": "æ‚ªŒ©‚¦‚¸A”»’f‚É–À‚¤B©ŒÈ”»’f‚Å“®‚©‚¸Aê–å‰Æ‚âæ”y‚Ì•Œ¾‚ğ‘f’¼‚É•·‚­‚±‚Æ‚ª‘åØB",
+    "rating": "¬‹¥"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 5,
+  "fields": {
+    "name": "…“Vù",
+    "yomi": "‚·‚¢‚Ä‚ñ‚¶‚ã",
+    "upper_trigram": "šª",
+    "lower_trigram": "Š£",
+    "image_desc": "“V‚Ìã‚É…i‰_j‚ª‚ ‚èA‰J‚ª~‚é‚Ì‚ğ‘Ò‚Á‚Ä‚¢‚éÛB‘Ò‹@A”E‘ÏAŠó–]‚ğ¦‚·B",
+    "gua_ci_meaning": "u›t—L‚èAŒõ‚è‹œ‚éB’å‚É‚µ‚Ä‹gB‘åì‚ğÂ‚é‚É—˜‚ë‚µvB½À‚ÈS‚Å‘Ò‚Ä‚ÎAŠè‚¢‚ÍŠ‚¤BÅ‚è‚Í‹Ö•¨B",
+    "fortune_summary": "‘Ò‚Â‚±‚Æ‚ªÅ‘P‚ÌôBÅ‚Á‚Ä“®‚¢‚Ä‚à—Ç‚¢Œ‹‰Ê‚Í“¾‚ç‚ê‚È‚¢BˆùH‚â‰ƒ‰ï‚É‚Í‹gB",
+    "rating": "‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 6,
+  "fields": {
+    "name": "“V…×",
+    "yomi": "‚Ä‚ñ‚·‚¢‚µ‚å‚¤",
+    "upper_trigram": "Š£",
+    "lower_trigram": "šª",
+    "image_desc": "“V‚Æ…‚ª”w‚«‡‚¤ÛBŒİ‚¢‚ÌˆÓŒ©‚ªH‚¢ˆá‚¢A‘ˆ‚¢‚ª¶‚¶‚â‚·‚¢ó‘ÔB",
+    "gua_ci_meaning": "u›t—L‚è‚ÄÇ‚ª‚éBí¤‚Æ‚µ‚Ä’†‚·‚ê‚Î‹gBI‚¤‚ê‚Î‹¥vB‘ˆ‚¢–‚Í½ˆÓ‚ª‚ ‚Á‚Ä‚à‚¤‚Ü‚­‚¢‚©‚È‚¢B“r’†‚Å˜a‰ğ‚·‚é‚Ì‚ª‹gB",
+    "fortune_summary": "‘i×‚â˜_‘ˆ‚ÉŠª‚«‚Ü‚ê‚â‚·‚¢B‘ˆ‚¢‚Í”ğ‚¯‚é‚×‚«B‚à‚µn‚Ü‚Á‚Ä‚àA[“ü‚è‚¹‚¸‚É˜a‰ğ‚Ì“¹‚ğ’T‚é‚±‚ÆB",
+    "rating": "‹¥"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 7,
+  "fields": {
+    "name": "’n…t",
+    "yomi": "‚¿‚·‚¢‚µ",
+    "upper_trigram": "£",
+    "lower_trigram": "šª",
+    "image_desc": "’n‚Ì’†‚É…‚ª‰B‚ê‚Ä‚¢‚éÛB‘åOi•ºmj‚ğ—¦‚¢‚éƒŠ[ƒ_[‚ÌŠí—Ê‚ª–â‚í‚ê‚éB",
+    "gua_ci_meaning": "u’åBäl‚È‚ê‚Î‹gB™é‚È‚µvB‘åO‚ğ—¦‚¢‚é‚É‚ÍA³‹`‚ÆŒoŒ±–L‚©‚ÈƒŠ[ƒ_[‚ª•K—vB„—˜„—~‚ğÌ‚Ä‚ê‚Î‹gB",
+    "fortune_summary": "¢“ï‚È–â‘è‚É’¼–Ê‚·‚é‚ªA³‚µ‚¢ƒŠ[ƒ_[ƒVƒbƒv‚Æü‚è‚Ì‹¦—Í‚ª‚ ‚ê‚Îæ‚è‰z‚¦‚ç‚ê‚éB©ŒÈ’†S“I‚É‚È‚ç‚Ê‚æ‚¤’ˆÓB",
+    "rating": "¬‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 8,
+  "fields": {
+    "name": "…’n”ä",
+    "yomi": "‚·‚¢‚¿‚Ğ",
+    "upper_trigram": "šª",
+    "lower_trigram": "£",
+    "image_desc": "’nã‚Ì…‚ª–œ•¨‚ğ‚·ÛBlX‚ªe‚µ‚İA•‚¯‡‚¤ŠÖŒW‚ğ¦‚·B",
+    "gua_ci_meaning": "u‹gBŒ´â¬i‚à‚Æ‚æ‚èâ¬‚¤jBŒ³‰i’åi‚°‚ñ‚¦‚¢‚Ä‚¢j‚É‚µ‚Ä™é‚È‚µvBlX‚Æe‚µ‚İ‹¦—Í‚·‚é‚±‚Æ‚Å‹gB‚½‚¾‚µA’†Sl•¨‚Ì½À‚³‚ª•s‰ÂŒ‡B",
+    "fortune_summary": "lŠÔŠÖŒW‚ª—ÇD‚ÅA‹¦—ÍÒ‚É‚àŒb‚Ü‚ê‚éB½À‚ÈŒğÛ‚ğS‚ª‚¯‚ê‚ÎA•¨–‚Í‡’²‚Éi‚ŞB",
+    "rating": "‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 9,
+  "fields": {
+    "name": "•—“V¬’{",
+    "yomi": "‚Ó‚¤‚Ä‚ñ‚µ‚å‚¤‚¿‚­",
+    "upper_trigram": "’F",
+    "lower_trigram": "Š£",
+    "image_desc": "“V‚Ìã‚ğ•—‚ª‚­‚ªA‚Ü‚¾‰_‚ğ—¯‚ß‚é—Í‚ªã‚¢ÛB­‚µ‚¾‚¯–W‚°‚ç‚êA‘Ò‹@‚·‚éó‘ÔB",
+    "gua_ci_meaning": "u‹œ‚éB–§‰_‰J‚Ó‚ç‚¸B‰ä‚ª¼x‚æ‚è‚·vBŠè‚¢‚ÍŠ‚¤¡‘O‚¾‚ªA‚Ü‚¾‹@‚ªn‚µ‚Ä‚¢‚È‚¢B€”õ‚ğ‘Ó‚ç‚¸‘Ò‚Â‚×‚«B",
+    "fortune_summary": "‘å‚«‚Èi“W‚Í‚È‚¢‚ªA­‚µ‚¸‚Â‘Oi‚·‚éBÀ—Í‚Í‚Ü‚¾•s\•ªB¡‚Í—Í‚ğ’~‚¦Aƒ`ƒƒƒ“ƒX‚ğ‘Ò‚Â‚±‚ÆB",
+    "rating": "¬‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 10,
+  "fields": {
+    "name": "“V‘ò—š",
+    "yomi": "‚Ä‚ñ‚½‚­‚è",
+    "upper_trigram": "Š£",
+    "lower_trigram": "™[",
+    "image_desc": "‘òi­—j‚ª“Vi•ƒj‚ÌŒã‚ë‚ğ‚Â‚¢‚Ä‚¢‚­ÛBŒÕ‚Ì”ö‚ğ“¥‚Ş‚æ‚¤‚ÈŠëŒ¯‚Èó‹µ‚¾‚ªA—ç‹V‚ğç‚ê‚Î‘åä•vB",
+    "gua_ci_meaning": "uŒÕ‚Ì”ö‚ğ—š‚Ş‚àAl‚ğ™øi‚­‚çj‚í‚¸B‹œ‚évBŠëŒ¯‚Èó‹µ‚Å‚àA—ç‹V‚ÆT‚İ‚ğç‚ê‚Îæ‚è‰z‚¦‚ç‚ê‚éB",
+    "fortune_summary": "–Úã‚Ìl‚Æ‚ÌŠÖŒW‚Å‹Ù’£‚ª‘–‚éê–Ê‚ª‚ ‚é‚©‚àB—ç‹V³‚µ‚­ATd‚És“®‚·‚ê‚Î–â‘è‚È‚¢B",
+    "rating": "•½"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 11,
+  "fields": {
+    "name": "’n“V‘×",
+    "yomi": "‚¿‚Ä‚ñ‚½‚¢",
+    "upper_trigram": "£",
+    "lower_trigram": "Š£",
+    "image_desc": "’n‚Ì‹C‚ª‰º‚ª‚èA“V‚Ì‹C‚ª¸‚èA‰A—z‚ªŒğ‚í‚éÛBˆÀ’èA•½˜aA’²˜a‚Ì‹É‚İB",
+    "gua_ci_meaning": "u¬‰‚«‘å—ˆ‚éB‹g‚É‚µ‚Ä‹œ‚évB–œ–‚ª‡’²‚É‰^‚ÑA•½˜a‚ÅˆÀ’è‚µ‚½ó‘ÔB–û’f‚¹‚¸A‚±‚Ìó‘Ô‚ğˆÛ‚·‚é“w—Í‚ğB",
+    "fortune_summary": "”ñí‚ÉˆÀ’è‚µ‚½K‰^ŠúB‰½–‚àƒXƒ€[ƒY‚Éi‚ŞBŒö„‚Ì‹æ•Ê‚ğ‚Â‚¯A½À‚És“®‚·‚é‚±‚Æ‚Å‰^‹C‚ª‘±‚·‚éB",
+    "rating": "‘å‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 12,
+  "fields": {
+    "name": "“V’n”Û",
+    "yomi": "‚Ä‚ñ‚¿‚Ğ",
+    "upper_trigram": "Š£",
+    "lower_trigram": "£",
+    "image_desc": "“V‚Ì‹C‚ª¸‚èA’n‚Ì‹C‚ª‰º‚ª‚èA‰A—z‚ªŒğ‚í‚ç‚È‚¢ÛB•ÂÇA’â‘ØA•s˜a‚ğ¦‚·B",
+    "gua_ci_meaning": "u”Û‚Ì”Ùli‚Ğ‚É‚ ‚ç‚¸jBŒNq‚Ì’å‚É—˜‚ë‚µ‚©‚ç‚¸B‘å‰‚«¬—ˆ‚évB–œ–Ç‚ª‚èA‚¤‚Ü‚­‚¢‚©‚È‚¢BŒNq‚Í“¿‚ğ‰B‚µ‚Ä‘Ï‚¦”E‚Ô‚×‚«B",
+    "fortune_summary": "‰^‹C‚Í’â‘Ø‚µA‰½‚ğ‚â‚Á‚Ä‚à‚¤‚Ü‚­‚¢‚©‚È‚¢”ª•ûÇ‚ª‚è‚ÌŠúB–³—‚És“®‚¹‚¸A“à–Ê‚Ì[À‚É“w‚ß‚é‚×‚«B",
+    "rating": "‘å‹¥"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 13,
+  "fields": {
+    "name": "“V‰Î“¯l",
+    "yomi": "‚Ä‚ñ‚©‚Ç‚¤‚¶‚ñ",
+    "upper_trigram": "Š£",
+    "lower_trigram": "—£",
+    "image_desc": "“V‚Ì‰º‚É‰Î‚ª‹P‚­ÛBlX‚ª“¯‚¶–Ú“I‚Ì‚à‚Æ‚ÉW‚Ü‚èA‹¦—Í‚·‚éB",
+    "gua_ci_meaning": "u–ì‚É‚¨‚¢‚Ä“¯l‚·B‹œ‚éB‘åì‚ğÂ‚é‚É—˜‚ë‚µBŒNq‚Ì’å‚É—˜‚ë‚µvBŒö•½–³„‚ÈS‚ÅlX‚Æ‹¦—Í‚·‚ê‚ÎA‘å‚«‚È–‹Æ‚à¬Œ÷‚·‚éB",
+    "fortune_summary": "’‡ŠÔ‚â‹¦—ÍÒ‚ÉŒb‚Ü‚ê‚éBƒI[ƒvƒ“‚ÈƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ğS‚ª‚¯A‹¤’Ê‚Ì–Ú•W‚ÉŒü‚©‚Á‚Äi‚Ş‚Æ—Ç‚¢B",
+    "rating": "‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 14,
+  "fields": {
+    "name": "‰Î“V‘å—L",
+    "yomi": "‚©‚Ä‚ñ‚½‚¢‚ä‚¤",
+    "upper_trigram": "—£",
+    "lower_trigram": "Š£",
+    "image_desc": "‘¾—z‚ª“V‚‚­‹P‚­ÛB‘S‚Ä‚ğŠ—L‚µA–L‚©‚³‚ª’¸“_‚É’B‚µ‚½ó‘ÔB",
+    "gua_ci_meaning": "uŒ³‹œ‚évB‘å‚¢‚É’Ê‚¶AŠè‚¢‚ÍŠ‚¤B•x‚â’nˆÊ‚ğ“¾‚Ä‚àAé‚ç‚¸A‘Ps‚ğÏ‚Ş‚±‚Æ‚ª‘åØB",
+    "fortune_summary": "•¨¿“I‚É‚à¸_“I‚É‚à”ñí‚ÉŒb‚Ü‚ê‚éK‰^ŠúB‚½‚¾‚µA•x‚Éé‚é‚Æ‰^‚ğ¸‚¤BŒª‹•‚³‚ÆŠ´Ó‚Ì‹C‚¿‚ğ–Y‚ê‚¸‚ÉB",
+    "rating": "‘å‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 15,
+  "fields": {
+    "name": "’nRŒª",
+    "yomi": "‚¿‚´‚ñ‚¯‚ñ",
+    "upper_trigram": "£",
+    "lower_trigram": "¯",
+    "image_desc": "‚‚¢R‚ª’n‚Ì‰º‚É‰B‚ê‚éÛBŒª‹•AŒª‘»‚Ì“¿‚ğ¦‚·B",
+    "gua_ci_meaning": "u‹œ‚éBŒNqI‚è—L‚èvBŒª‹•‚Èp¨‚ğŠÑ‚¯‚ÎA‰½–‚à‡’²‚Éi‚İA—Ç‚¢Œ‹‰Ê‚ğ“¾‚ç‚ê‚éB",
+    "fortune_summary": "Œª‹•‚³‚ª¬Œ÷‚ÌŒ®B©•ª‚Ì”\—Í‚ğ‚Ğ‚¯‚ç‚©‚³‚¸AT‚¦‚ß‚È‘Ô“x‚Å‚¢‚é‚±‚Æ‚ÅAl‚©‚ç‚ÌM—Š‚Æ‹¦—Í‚ğ“¾‚ç‚ê‚éB",
+    "rating": "‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 16,
+  "fields": {
+    "name": "—‹’n˜¬",
+    "yomi": "‚ç‚¢‚¿‚æ",
+    "upper_trigram": "k",
+    "lower_trigram": "£",
+    "image_desc": "’n‚©‚ç—‹‚ª–Â‚è‹¿‚­ÛBŠì‚ÑAŠy‚µ‚İA€”õ‚ª®‚Á‚½ó‘ÔB",
+    "gua_ci_meaning": "uŒò‚ğŒš‚Ät‚ğsi‚âj‚é‚É—˜‚ë‚µvB€”õ‚ª–œ’[‚É®‚¢As“®‚ğ‹N‚±‚·‚Ì‚É—Ç‚¢B‚½‚¾‚µAŠy‚µ‚İ‚É“M‚ê‚Ä‚Í‚È‚ç‚È‚¢B",
+    "fortune_summary": "Šy‚µ‚¢‚±‚Æ‚ª‘½‚­AS‚à•‚‚«—§‚ÂŠúBŒv‰æ‚ğÀs‚ÉˆÚ‚·D‹@‚¾‚ªA–û’f‚â€”õ•s‘«‚Í‹Ö•¨B",
+    "rating": "’†‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 17,
+  "fields": {
+    "name": "‘ò—‹",
+    "yomi": "‚½‚­‚ç‚¢‚¸‚¢",
+    "upper_trigram": "™[",
+    "lower_trigram": "k",
+    "image_desc": "—‹i“®‚«j‚ª‘òiŠì‚Ñj‚É]‚¤ÛBl‚É]‚¤A—¬‚Éæ‚é‚±‚Æ‚Ìd—v«‚ğ¦‚·B",
+    "gua_ci_meaning": "uŒ³‹œ—˜’åB™é‚È‚µvB½ˆÓ‚ğ‚à‚Á‚Äl‚É]‚¢A—¬‚Éæ‚ê‚ÎAŠè‚¢‚ÍŠ‚¢A–â‘è‚Í¶‚¶‚È‚¢B",
+    "fortune_summary": "©ŒÈå’£‚æ‚è‚àAl‚âó‹µ‚É]‚¤‚±‚Æ‚Å‚¤‚Ü‚­‚¢‚­BM—Š‚Å‚«‚éƒŠ[ƒ_[‚É‚Â‚¢‚Ä‚¢‚­‚Ì‚ª—Ç‚¢B",
+    "rating": "‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 18,
+  "fields": {
+    "name": "R•—åÁ",
+    "yomi": "‚³‚ñ‚Õ‚¤‚±",
+    "upper_trigram": "¯",
+    "lower_trigram": "’F",
+    "image_desc": "R‚Ì‰º‚ğ•—‚ª‚«”²‚¯A•¨‚ª•…”s‚µA—‚ê‚Ä‚¢‚éÛB•…”sA‰üŠvAüV‚Ì•K—v«‚ğ¦‚·B",
+    "gua_ci_meaning": "uŒ³‹œ‚éB‘åì‚ğÂ‚é‚É—˜‚ë‚µvB•…”s‚µ‚½ó‹µ‚ğ‰üŠv‚·‚é‚É‚ÍA¢“ï‚ª”º‚¤‚ªA’fŒÅ‚½‚éŒˆˆÓ‚Å—Õ‚ß‚Î¬Œ÷‚·‚éB",
+    "fortune_summary": "’·”N‚Ì–â‘è‚â•¾ŠQ‚ª•\–Ê‰»‚·‚éBŒ©‚ÄŒ©‚Ê‚Ó‚è‚ğ‚¹‚¸Aª–{“I‚È‰üŠv‚Éæ‚è‘g‚Ş‚×‚«B",
+    "rating": "‹¥"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 19,
+  "fields": {
+    "name": "’n‘ò—Õ",
+    "yomi": "‚¿‚½‚­‚è‚ñ",
+    "upper_trigram": "£",
+    "lower_trigram": "™[",
+    "image_desc": "’n‚ª‘ò‚É—Õ‚ŞÛB—z‚Ì‹C‚ªL‚ÑAlX‚ªŠì‚Ñ‚ğ‚à‚Á‚Ä•¨–‚É—Õ‚Şó‘ÔB",
+    "gua_ci_meaning": "uŒ³‹œ—˜’åB”ªŒ‚ÉŠ‚è‚Ä‹¥—L‚èvB¡‚Í”ñí‚É—Ç‚¢Šú‚¾‚ªAt‚Ì¨‚¢‚Í’·‚­‘±‚©‚È‚¢B–û’f‚¹‚¸A«—ˆ‚É”õ‚¦‚é‚×‚«B",
+    "fortune_summary": "l‹C‰^‚ªã¸‚µAƒŠ[ƒ_[ƒVƒbƒv‚ğ”­Šö‚Å‚«‚éBÏ‹É“I‚És“®‚µ‚Ä—Ç‚¢‚ªAD’²‚ª‰i‰“‚É‚Í‘±‚©‚È‚¢‚±‚Æ‚ğS‚É—¯‚ß‚Ä‚¨‚­‚±‚ÆB",
+    "rating": "’†‹g"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 20,
+  "fields": {
+    "name": "•—’nŠÏ",
+    "yomi": "‚Ó‚¤‚¿‚©‚ñ",
+    "upper_trigram": "’F",
+    "lower_trigram": "£",
+    "image_desc": "•—‚ª’nã‚ğ‚«“n‚èA–œ•¨‚ğŠÏ@‚·‚éÛBŠÏ@A“´@A“àÈ‚ÌB",
+    "gua_ci_meaning": "x",
+    "fortune_summary": "Ï‹É“I‚É“®‚­‚Å‚Í‚È‚¢Bˆê•àˆø‚¢‚ÄA©•ª‚Æü‚è‚Ìó‹µ‚ğ—âÃ‚ÉŠÏ@‚·‚é‚±‚Æ‚ª‹‚ß‚ç‚ê‚éB",
+    "rating": "•½"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 21,
+  "fields": {
+    "name": 

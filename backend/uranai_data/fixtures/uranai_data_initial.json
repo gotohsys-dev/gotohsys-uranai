@@ -1,0 +1,277 @@
+﻿[
+{
+  "model": "uranai_data.hexagram",
+  "pk": 1,
+  "fields": {
+    "name": "乾為天",
+    "yomi": "けんいてん",
+    "upper_trigram": "乾",
+    "lower_trigram": "乾",
+    "image_desc": "天が二つ重なる象。純粋な陽のエネルギー。創造、剛健、父性、能動性を象徴する。",
+    "gua_ci_meaning": "「元亨利貞（げんこうりてい）」。大いに通じ、正道を守れば願いは叶う。ただし、傲慢にならず、謙虚さを保つことが重要。",
+    "fortune_summary": "運気は最高潮。積極的に行動することで大きな成果を得られる。ただし、力を過信せず、慎重に進むべき時でもある。",
+    "rating": "大吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 2,
+  "fields": {
+    "name": "坤為地",
+    "yomi": "こんいち",
+    "upper_trigram": "坤",
+    "lower_trigram": "坤",
+    "image_desc": "地が二つ重なる象。純粋な陰のエネルギー。受容、母性、柔順、育成を象徴する。",
+    "gua_ci_meaning": "「元亨。利牝馬之貞（りひんばのてい）」。柔順な牝馬のように、従順で誠実な態度を貫けば、大いに通じ、願いは叶う。",
+    "fortune_summary": "受け身の姿勢が吉と出る時。人の意見を聞き入れ、補佐的な役割に徹するとうまくいく。新しいことを始めるより、現状維持を。",
+    "rating": "吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 3,
+  "fields": {
+    "name": "水雷屯",
+    "yomi": "すいらいちゅん",
+    "upper_trigram": "坎",
+    "lower_trigram": "震",
+    "image_desc": "水の下に雷が動く象。草木が芽生えようとするが、障害が多くて苦しんでいる状態。",
+    "gua_ci_meaning": "「元亨利貞。勿用有攸往。利建侯（こうをたつるによろし）」。産みの苦しみの時。進むのは困難だが、耐え忍び、協力者を得て基盤を固めるべき。",
+    "fortune_summary": "物事の始まりで、困難が多い時期。焦って進むと失敗する。今は耐え、力を蓄えることに専念すべき。",
+    "rating": "凶"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 4,
+  "fields": {
+    "name": "山水蒙",
+    "yomi": "さんすいもう",
+    "upper_trigram": "艮",
+    "lower_trigram": "坎",
+    "image_desc": "山の下に泉があるが、霧が深く先が見えない象。無知、蒙昧、教育の必要性を示す。",
+    "gua_ci_meaning": "「蒙は亨る。我童蒙に求むるにあらず、童蒙我に求む」。正しい師を求め、真摯に教えを請えば道は開ける。",
+    "fortune_summary": "先が見えず、判断に迷う時。自己判断で動かず、専門家や先輩の助言を素直に聞くことが大切。",
+    "rating": "小凶"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 5,
+  "fields": {
+    "name": "水天需",
+    "yomi": "すいてんじゅ",
+    "upper_trigram": "坎",
+    "lower_trigram": "乾",
+    "image_desc": "天の上に水（雲）があり、雨が降るのを待っている象。待機、忍耐、希望を示す。",
+    "gua_ci_meaning": "「孚有り、光り亨る。貞にして吉。大川を渉るに利ろし」。誠実な心で待てば、願いは叶う。焦りは禁物。",
+    "fortune_summary": "待つことが最善の策。焦って動いても良い結果は得られない。飲食や宴会には吉。",
+    "rating": "吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 6,
+  "fields": {
+    "name": "天水訟",
+    "yomi": "てんすいしょう",
+    "upper_trigram": "乾",
+    "lower_trigram": "坎",
+    "image_desc": "天と水が背き合う象。互いの意見が食い違い、争いが生じやすい状態。",
+    "gua_ci_meaning": "「孚有りて塞がる。惕として中すれば吉。終うれば凶」。争い事は誠意があってもうまくいかない。途中で和解するのが吉。",
+    "fortune_summary": "訴訟や論争に巻き込まれやすい時。争いは避けるべき。もし始まっても、深入りせずに和解の道を探ること。",
+    "rating": "凶"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 7,
+  "fields": {
+    "name": "地水師",
+    "yomi": "ちすいし",
+    "upper_trigram": "坤",
+    "lower_trigram": "坎",
+    "image_desc": "地の中に水が隠れている象。大衆（兵士）を率いるリーダーの器量が問われる。",
+    "gua_ci_meaning": "「貞。丈人なれば吉。咎なし」。大衆を率いるには、正義と経験豊かなリーダーが必要。私利私欲を捨てれば吉。",
+    "fortune_summary": "困難な問題に直面するが、正しいリーダーシップと周りの協力があれば乗り越えられる。自己中心的にならぬよう注意。",
+    "rating": "小吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 8,
+  "fields": {
+    "name": "水地比",
+    "yomi": "すいちひ",
+    "upper_trigram": "坎",
+    "lower_trigram": "坤",
+    "image_desc": "地上の水が万物を潤す象。人々が親しみ、助け合う関係を示す。",
+    "gua_ci_meaning": "「吉。原筮（もとより筮う）。元永貞（げんえいてい）にして咎なし」。人々と親しみ協力することで吉。ただし、中心人物の誠実さが不可欠。",
+    "fortune_summary": "人間関係が良好で、協力者にも恵まれる時。誠実な交際を心がければ、物事は順調に進む。",
+    "rating": "吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 9,
+  "fields": {
+    "name": "風天小畜",
+    "yomi": "ふうてんしょうちく",
+    "upper_trigram": "巽",
+    "lower_trigram": "乾",
+    "image_desc": "天の上を風が吹くが、まだ雲を留める力が弱い象。少しだけ妨げられ、待機する状態。",
+    "gua_ci_meaning": "「亨る。密雲雨ふらず。我が西郊よりす」。願いは叶う寸前だが、まだ機が熟していない。準備を怠らず待つべき。",
+    "fortune_summary": "大きな進展はないが、少しずつ前進する時。実力はまだ不十分。今は力を蓄え、チャンスを待つこと。",
+    "rating": "小吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 10,
+  "fields": {
+    "name": "天沢履",
+    "yomi": "てんたくり",
+    "upper_trigram": "乾",
+    "lower_trigram": "兌",
+    "image_desc": "沢（少女）が天（父）の後ろをついていく象。虎の尾を踏むような危険な状況だが、礼儀を守れば大丈夫。",
+    "gua_ci_meaning": "「虎の尾を履むも、人を咥（くら）わず。亨る」。危険な状況でも、礼儀と慎みを守れば乗り越えられる。",
+    "fortune_summary": "目上の人との関係で緊張が走る場面があるかも。礼儀正しく、慎重に行動すれば問題ない。",
+    "rating": "平"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 11,
+  "fields": {
+    "name": "地天泰",
+    "yomi": "ちてんたい",
+    "upper_trigram": "坤",
+    "lower_trigram": "乾",
+    "image_desc": "地の気が下がり、天の気が昇り、陰陽が交わる象。安定、平和、調和の極み。",
+    "gua_ci_meaning": "「小往き大来る。吉にして亨る」。万事が順調に運び、平和で安定した状態。油断せず、この状態を維持する努力を。",
+    "fortune_summary": "非常に安定した幸運期。何事もスムーズに進む。公私の区別をつけ、誠実に行動することで運気が持続する。",
+    "rating": "大吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 12,
+  "fields": {
+    "name": "天地否",
+    "yomi": "てんちひ",
+    "upper_trigram": "乾",
+    "lower_trigram": "坤",
+    "image_desc": "天の気が昇り、地の気が下がり、陰陽が交わらない象。閉塞、停滞、不和を示す。",
+    "gua_ci_meaning": "「否の匪人（ひにあらず）。君子の貞に利ろしからず。大往き小来る」。万事塞がり、うまくいかない時。君子は徳を隠して耐え忍ぶべき。",
+    "fortune_summary": "運気は停滞し、何をやってもうまくいかない八方塞がりの時期。無理に行動せず、内面の充実に努めるべき。",
+    "rating": "大凶"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 13,
+  "fields": {
+    "name": "天火同人",
+    "yomi": "てんかどうじん",
+    "upper_trigram": "乾",
+    "lower_trigram": "離",
+    "image_desc": "天の下に火が輝く象。人々が同じ目的のもとに集まり、協力する。",
+    "gua_ci_meaning": "「野において同人す。亨る。大川を渉るに利ろし。君子の貞に利ろし」。公平無私な心で人々と協力すれば、大きな事業も成功する。",
+    "fortune_summary": "仲間や協力者に恵まれる時。オープンなコミュニケーションを心がけ、共通の目標に向かって進むと良い。",
+    "rating": "吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 14,
+  "fields": {
+    "name": "火天大有",
+    "yomi": "かてんたいゆう",
+    "upper_trigram": "離",
+    "lower_trigram": "乾",
+    "image_desc": "太陽が天高く輝く象。全てを所有し、豊かさが頂点に達した状態。",
+    "gua_ci_meaning": "「元亨る」。大いに通じ、願いは叶う。富や地位を得ても、驕らず、善行を積むことが大切。",
+    "fortune_summary": "物質的にも精神的にも非常に恵まれる幸運期。ただし、富に驕ると運を失う。謙虚さと感謝の気持ちを忘れずに。",
+    "rating": "大吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 15,
+  "fields": {
+    "name": "地山謙",
+    "yomi": "ちざんけん",
+    "upper_trigram": "坤",
+    "lower_trigram": "艮",
+    "image_desc": "高い山が地の下に隠れる象。謙虚、謙遜の徳を示す。",
+    "gua_ci_meaning": "「亨る。君子終り有り」。謙虚な姿勢を貫けば、何事も順調に進み、良い結果を得られる。",
+    "fortune_summary": "謙虚さが成功の鍵。自分の能力をひけらかさず、控えめな態度でいることで、人からの信頼と協力を得られる。",
+    "rating": "吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 16,
+  "fields": {
+    "name": "雷地豫",
+    "yomi": "らいちよ",
+    "upper_trigram": "震",
+    "lower_trigram": "坤",
+    "image_desc": "地から雷が鳴り響く象。喜び、楽しみ、準備が整った状態。",
+    "gua_ci_meaning": "「侯を建て師を行（や）るに利ろし」。準備が万端に整い、行動を起こすのに良い時。ただし、楽しみに溺れてはならない。",
+    "fortune_summary": "楽しいことが多く、心も浮き立つ時期。計画を実行に移す好機だが、油断や準備不足は禁物。",
+    "rating": "中吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 17,
+  "fields": {
+    "name": "沢雷随",
+    "yomi": "たくらいずい",
+    "upper_trigram": "兌",
+    "lower_trigram": "震",
+    "image_desc": "雷（動き）が沢（喜び）に従う象。人に従う、時流に乗ることの重要性を示す。",
+    "gua_ci_meaning": "「元亨利貞。咎なし」。誠意をもって人に従い、時流に乗れば、願いは叶い、問題は生じない。",
+    "fortune_summary": "自己主張よりも、人や状況に従うことでうまくいく時。信頼できるリーダーについていくのが良い。",
+    "rating": "吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 18,
+  "fields": {
+    "name": "山風蠱",
+    "yomi": "さんぷうこ",
+    "upper_trigram": "艮",
+    "lower_trigram": "巽",
+    "image_desc": "山の下を風が吹き抜け、物が腐敗し、乱れている象。腐敗、改革、刷新の必要性を示す。",
+    "gua_ci_meaning": "「元亨る。大川を渉るに利ろし」。腐敗した状況を改革するには、困難が伴うが、断固たる決意で臨めば成功する。",
+    "fortune_summary": "長年の問題や弊害が表面化する時。見て見ぬふりをせず、根本的な改革に取り組むべき。",
+    "rating": "凶"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 19,
+  "fields": {
+    "name": "地沢臨",
+    "yomi": "ちたくりん",
+    "upper_trigram": "坤",
+    "lower_trigram": "兌",
+    "image_desc": "地が沢に臨む象。陽の気が伸び、人々が喜びをもって物事に臨む状態。",
+    "gua_ci_meaning": "「元亨利貞。八月に至りて凶有り」。今は非常に良い時期だが、春の勢いは長く続かない。油断せず、将来に備えるべき。",
+    "fortune_summary": "人気運が上昇し、リーダーシップを発揮できる時。積極的に行動して良いが、好調が永遠には続かないことを心に留めておくこと。",
+    "rating": "中吉"
+  }
+},
+{
+  "model": "uranai_data.hexagram",
+  "pk": 20,
+  "fields": {
+    "name": "風地観",
+    "yomi": "ふうちかん",
+    "upper_trigram": "巽",
+    "lower_trigram": "坤",
+    "image_desc": "風が地上を吹き渡り、万物を観察する象。観察、洞察、内省の時。",
+    "gua_ci_meaning": 
