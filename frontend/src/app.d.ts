@@ -8,6 +8,17 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
+	interface ImportMetaEnv {
+		readonly VITE_API_BASE_URL: string;
+	}
+	interface ImportMeta {
+		readonly env: ImportMetaEnv;
+	}
+}
+
+declare module '*.png' {
+	const value: string;
+	export default value;
 }
 
 export {};

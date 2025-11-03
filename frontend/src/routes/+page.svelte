@@ -8,11 +8,9 @@
     // ⭐️ 状態管理
     // ===================================
 
-    // ⭐️ 環境変数 VITE_API_BASE_URL を使用する ⭐️
-    const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
+    // ⭐️ 環境変数 VITE_API_BASE_URL を使用する（未設定の場合はローカル開発環境のURLをデフォルト値とする） ⭐️
+    const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:8000';
 
-    // ⭐️ Django APIのURL (8000番ポートで動いている前提)
-    // const API_URL = 'http://127.0.0.1:8000/api/v1/divination/';
     // API接続のURLを構築
     const API_URL = `${API_BASE_URL}/api/v1/divination/`;
     
